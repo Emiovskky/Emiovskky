@@ -140,6 +140,16 @@ Experiencia web funcional y cercana, pensada para mostrar producto y facilitar c
   <img width="78%" src="https://streak-stats.demolab.com?user=Emiovskky&hide_border=true&background=09090b&ring=8b5cf6&fire=22d3ee&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc" alt="Racha de contribuciones" />
 </p>
 
+## Pulso de construccion
+
+<p align="center">
+  Esta animacion se actualiza automaticamente con mi actividad en GitHub.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Emiovskky/Emiovskky/output/github-contribution-grid-snake-violet.svg" alt="Actividad de contribuciones de Cesar Emilio" />
+</p>
+
 ## Stack de trabajo
 
 <p align="center">
