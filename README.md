@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Emiovskky?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-06b6d4?style=for-the-badge&labelColor=09090b" alt="Explore projects" /></a>
-  <a href="https://pedidos-el-calin.vercel.app"><img src="https://img.shields.io/badge/EL%20CALIN-LIVE%20SYSTEM-8b5cf6?style=for-the-badge&labelColor=09090b" alt="El Calin live system" /></a>
+  <a href="https://github.com/Emiovskky"><img src="https://img.shields.io/badge/VIEW-PROFILE-8b5cf6?style=for-the-badge&labelColor=09090b" alt="GitHub profile" /></a>
 </p>
 
 <h3 align="center">Sistemas utiles. Datos claros. Trabajo que avanza.</h3>
@@ -67,7 +67,7 @@
 
 ### Ahora construyendo
 
-**[El Calin](https://pedidos-el-calin.vercel.app)**  
+**[El Calin](https://github.com/Emiovskky/pedidos-el-calin)**  
 Un sistema vivo para pedidos, jornada, clientes, gastos y corte de un puesto real.
 
 Operacion diaria · Experiencia movil · Datos accionables
@@ -96,7 +96,7 @@ Trabajo de campo · Analisis · Flujos claros
 
 Pedidos, jornada, gastos, clientes, corte y notificaciones para un puesto real.
 
-[Repositorio](https://github.com/Emiovskky/pedidos-el-calin) · [Sistema en vivo](https://pedidos-el-calin.vercel.app)
+[Ver repositorio](https://github.com/Emiovskky/pedidos-el-calin) · [Ver todos los proyectos](https://github.com/Emiovskky?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -137,8 +137,7 @@ Experiencia web funcional y cercana, pensada para mostrar producto y facilitar c
 ## Actividad
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Emiovskky&show_icons=true&hide_border=true&bg_color=09090b&title_color=c084fc&icon_color=22d3ee&text_color=cbd5e1&ring_color=8b5cf6&include_all_commits=true&count_private=true" alt="Estadisticas de GitHub de Cesar Emilio" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Emiovskky&hide_border=true&background=09090b&ring=8b5cf6&fire=22d3ee&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc" alt="Racha de contribuciones" />
+  <img width="78%" src="https://streak-stats.demolab.com?user=Emiovskky&hide_border=true&background=09090b&ring=8b5cf6&fire=22d3ee&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc" alt="Racha de contribuciones" />
 </p>
 
 ## Stack de trabajo
