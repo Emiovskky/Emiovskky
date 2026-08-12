@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=680&lines=Construyendo+sistemas+que+se+sienten+simples.;Datos+claros+para+decidir+mejor.;Automatizacion+que+deja+espacio+para+lo+importante." alt="Presentacion animada" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Emiovskky?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-06b6d4?style=for-the-badge&labelColor=09090b" alt="Explore projects" /></a>
   <a href="https://pedidos-el-calin.vercel.app"><img src="https://img.shields.io/badge/EL%20CALIN-LIVE%20SYSTEM-8b5cf6?style=for-the-badge&labelColor=09090b" alt="El Calin live system" /></a>
 </p>
@@ -12,6 +16,12 @@
 <p align="center">
   Construyo herramientas para transformar procesos cotidianos en experiencias simples, ordenadas y confiables.<br />
   Tecnologia con proposito, desde la idea hasta el uso real.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ENFOQUE-GESTION%20%7C%20DATOS%20%7C%20MOVILIDAD-0f172a?style=flat-square&labelColor=4c1d95&color=0f172a" alt="Enfoque" />
+  <img src="https://img.shields.io/badge/BASE-MEXICO-0f172a?style=flat-square&labelColor=155e75&color=0f172a" alt="Mexico" />
+  <img src="https://img.shields.io/badge/ESTADO-SIEMPRE%20CONSTRUYENDO-0f172a?style=flat-square&labelColor=7e22ce&color=0f172a" alt="Siempre construyendo" />
 </p>
 
 ---
@@ -44,6 +54,32 @@
 - Convierto datos en decisiones accionables
 - Cuido cada detalle que evita errores
 - Dejo el sistema listo para continuar creciendo
+
+</td>
+</tr>
+</table>
+
+## En movimiento
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Ahora construyendo
+
+**[El Calin](https://pedidos-el-calin.vercel.app)**  
+Un sistema vivo para pedidos, jornada, clientes, gastos y corte de un puesto real.
+
+Operacion diaria · Experiencia movil · Datos accionables
+
+</td>
+<td width="50%" valign="top">
+
+### Tambien exploro
+
+Sistemas de campo, informacion territorial, administracion y herramientas internas que hagan que el trabajo se sienta mas ligero.
+
+Trabajo de campo · Analisis · Flujos claros
 
 </td>
 </tr>
@@ -97,6 +133,13 @@ Experiencia web funcional y cercana, pensada para mostrar producto y facilitar c
 </td>
 </tr>
 </table>
+
+## Actividad
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Emiovskky&show_icons=true&hide_border=true&bg_color=09090b&title_color=c084fc&icon_color=22d3ee&text_color=cbd5e1&ring_color=8b5cf6&include_all_commits=true&count_private=true" alt="Estadisticas de GitHub de Cesar Emilio" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Emiovskky&hide_border=true&background=09090b&ring=8b5cf6&fire=22d3ee&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc" alt="Racha de contribuciones" />
+</p>
 
 ## Stack de trabajo
 
